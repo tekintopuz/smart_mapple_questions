@@ -26,7 +26,3 @@ def hasDuplicate(string: str) -> bool:
                         return True
 
     return False
-
-print(hasDuplicate("11"))
-# print(hasDuplicate("0101101"))
-# print(hasDuplicate("10011001101"))
